@@ -3,7 +3,10 @@
 How to Play
 The goal of this game is to make it to the chicken coup on the right side of the map before the fox gets you. You may collect the stars along the way try to collect as many as you can to become a completionist.
 
-
+Controls
+Space-jump
+a-left
+d-right
 
 
 requirements
